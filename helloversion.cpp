@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout <<"hello version contro 3" << endl;
+    cout <<"hello version control" << endl;
 
     return 0;
 }
